@@ -1,7 +1,7 @@
 body {
   padding-top: 40px;
 }
-.starter-template {
-  padding: 40px 15px;
-  text-align: left;
+
+p.withImg {
+	padding:40px;
 }
