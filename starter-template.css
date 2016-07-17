@@ -3,5 +3,17 @@ body {
 }
 
 p.withImg {
-	padding:40px;
+	padding-right:150px;
+	padding-top: 20px;
 }
+
+p {
+	padding-top: 20px;
+	padding-right:150px;
+	font-size: 16px;
+}
+
+.container {
+	max-width: 800px;
+}
+
